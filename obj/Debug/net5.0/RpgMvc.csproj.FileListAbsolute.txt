@@ -44,3 +44,5 @@ D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\CadastrarUsuario.cshtml.g.cs
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartialRpg.cshtml.g.cs
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\AutenticarUsuario.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\index.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Create.cshtml.g.cs
