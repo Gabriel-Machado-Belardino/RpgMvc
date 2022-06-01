@@ -95,3 +95,4 @@ D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\RpgMvc.pdb
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\RpgMvc.genruntimeconfig.cache
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\ref\RpgMvc.dll
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Detail.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
