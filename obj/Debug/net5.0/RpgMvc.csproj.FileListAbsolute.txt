@@ -96,3 +96,7 @@ D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\RpgMvc.genruntimeconfig.cache
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\ref\RpgMvc.dll
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Detail.cshtml.g.cs
 D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Detail.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
+D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexHabilidades.cshtml.g.cs
