@@ -24,6 +24,6 @@ namespace RpgMvc.Models
 
         //public Arma Arma { get; set;}
 
-        //public List<PersonagemHabilidade> PersonagemHabilidade { get; set;}
+        public List<PersonagemHabilidadeViewModel> PersonagemHabilidades { get; set;}
     }
 }

@@ -100,3 +100,8 @@ D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\D
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
 D:\Gabriel Machado 2DS 2022\Ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexHabilidades.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexHabilidades.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\PersonagemHabilidades\Index.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\PersonagemHabilidades\Create.cshtml.g.cs
+D:\Documentos\Etec\VS code\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexDisputas.cshtml.g.cs
